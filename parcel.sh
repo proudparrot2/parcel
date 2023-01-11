@@ -1,3 +1,1 @@
-function hello() {
-    echo "Hello, Parcel users!"
-}
+echo "Hello!"
